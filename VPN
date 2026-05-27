@@ -1,6 +1,6 @@
 #profile-title:Yiling_vpn 
 #profile-update-interval: 12
-#subscription-userinfo:expire=∞;total=∞; used=1024
+#subscription-userinfo:expire=253402300800;total=∞; used=1024
 #url-web-page-url: 
 #announce:помог @alexandr_zaboyshik 
 
