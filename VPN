@@ -54,3 +54,16 @@ vless://0c8a9f50-51b3-43b5-b1fb-09fc3131a800@gwapp-ru01.freenets.store:443?flow=
 vless://301d514e-4aa0-47b0-ba44-a0cb891cd52f@151.242.191.161:443?security=reality&type=tcp&headerType=&path=&host=&sni=www.samsung.com&fp=chrome&pbk=OZVjfQBboTDTBw0baMFqzVPsVUI4FNQmspTEb0b0zW4&sid=a1b2c3d4#%F0%9F%87%B7%F0%9F%87%B4%D0%A0%D1%83%D0%BC%D1%8B%D0%BD%D0%B8%D1%8F%20%231%7C%40
 vless://1f678d60-48d7-4eb0-9f85-35ed154d1cd5@chus.nodes.rocketnetwork.ru:443?encryption=none&flow=xtls-rprx-vision&type=tcp&security=reality&sni=cyberdrift.ru&fp=chrome&pbk=Mn0DIMKW6zu0_D3E1qKO7xMlIVZvB-rqO_-f7Le2vAs&sid=428ef87fd47a3a32#%F0%9F%87%BA%F0%9F%87%B8%D0%A1%D0%A8%D0%90%20%231%7C%40
 vless://68f91cc2-4ef2-46fd-932a-2d0350f682c8@panel.panel.pythash.tr:443?type=tcp&security=reality&sni=www.yahoo.com&fp=chrome&flow=xtls-rprx-vision&pbk=MbVEbNu2iMIDhD5ziJFLKVfV0lBY7tGGpklBrwqVCyg&sid=61ad#%F0%9F%87%B9%F0%9F%87%B7%D0%A2%D1%83%D1%80%D1%86%D0%B8%D1%8F%20%231%7C%40
+
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@sw.nnmm.me:443?security=tls&sni=sw.nnmm.me#🇪🇺 Автовыбор локации #1
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@nl.nnmm.me:443?security=tls&sni=nl.nnmm.me#🇪🇺 Автовыбор локации #2
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@ee1.nnmm.me:443?security=tls&sni=ee1.nnmm.me#🇪🇪 Эстония
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@de.nnmm.me:443?security=tls&sni=de.nnmm.me#🇩🇪 Германия
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@pl.nnmm.me:443?security=tls&sni=pl.nnmm.me#🇵🇱 Польша
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@fr.nnmm.me:443?security=tls&sni=fr.nnmm.me#🇫🇷 Франция | Резерв
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@nl8.nnmm.me:443?security=tls&sni=nl8.nnmm.me#🇳🇱 Нидерланды
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@uk1.nnmm.me:443?security=tls&sni=uk1.nnmm.me#🇬🇧 Лондон
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@fi.nnmm.me:443?security=tls&sni=fi.nnmm.me#🇫🇮 Финляндия
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@us.nnmm.me:443?security=tls&sni=us.nnmm.me#🇺🇸 США
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@ru1.nnmm.me:443?security=tls&sni=ru1.nnmm.me#🇷🇺 Россия
+trojan://6p4mgQgUF0mq31bfX31TrckzL2FzbdgK@kz.nnmm.me:443?security=tls&sni=kz.nnmm.me#🇰🇿 Казахстан
