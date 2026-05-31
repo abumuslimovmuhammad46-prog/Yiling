@@ -3,26 +3,9 @@
 #subscription-userinfo:expire=32503680000;total=∞; used=1024
 #url-web-page-url: 
 #announce:помог с созданием @alexandr_zaboyshik 
-vless://5d9fb6d3-8879-49b5-a0f8-1c723d15bb74@fin.abrekai.com:8443?mode=packet-up&path=%2Fstatic%2Fv2%2Fchunk&security=reality&encryption=none&pbk=CWHV85z1cX-3EoQ1LtMP7xnVCTx9HpSitqZ8hJ_ScmQ&fp=chrome&type=xhttp&sni=ads.x5.ru&sid=6ba85179e30d4fc2#🇩🇪%20⚡
 
-vless://d0b60427-ccb0-4026-aeec-d095b6b7dd08@ee.srv.vpnza300.org:443?security=reality&encryption=none&pbk=4Y1wdeQGqDecReK5UrA5RV7Dcq9QnfuArtSzujdJbXo&headerType=none&fp=firefox&type=tcp&flow=xtls-rprx-vision&sni=ee.srv.vpnza300.org&sid=6eda877655137aff#🇪🇪%20
-
-vless://dd01166e-cfa8-42a2-919f-fcfe1c826589@178.250.246.138:443?flow=xtls-rprx-vision&type=tcp&headerType=none&security=reality&fp=chrome&sni=max.ru&pbk=x6IISB8aN_CSlPY6C1PEcwj-HsNYK_wPnTGE4PV0OEI&sid=e5b74b1933d870a2#⚡
-
-vless://dd01166e-cfa8-42a2-919f-fcfe1c826589@178.250.246.138:443?type=tcp&security=reality&encryption=none&flow=xtls-rprx-vision&fp=chrome&sni=max.ru&pbk=x6IISB8aN_CSlPY6C1PEcwj-HsNYK_wPnTGE4PV0OEI&sid=e5b74b1933d870a2#⚡
-
-vless://31969cf4-c1bb-4a3e-b42b-574dfb271c73@188.225.34.179:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=rus.scroogethebest.com&fp=chrome&pbk=sbvKAdRy_0h33iRxgGwHAD1HC62WGwlkWwj0S5ptJEU&sid=9c2378562188c3cb&type=tcp&headerType=none#🇷🇺⚡
-
-vless://69a2af58-d74a-44ca-864a-e09b493f4274@195.96.132.125:443?type=tcp&security=reality&pbk=WM-LMz6slGkGPD3zEM8Ntat27n6p6EfbxRsjYmTykV4&fp=chrome&sni=www.vk.ru&sid=8237eb&flow=xtls-rprx-vision#%F0%9F%87%AA%F0%9F%87%BA%E2%9A%A1%40
-
-vless://c911ab2b-f202-4924-b463-f74cd6bbadab@45.136.125.81:8443?encryption=none&security=reality&sni=vkvideo.ru&fp=chrome&pbk=cwcnbddHbF43U9uNvN3h7ng3x2hTib0mldaYAcz5Gmk&sid=abcd1234&type=xhttp&path=%2Fapi%2Fv1%2Fupdate&mode=auto#%F0%9F%87%B5%F0%9F%87%B1%20%E2%9A%A1%40
-
-
-vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@ger-nnn.prostosetup.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=chrome&pbk=y3ZMu-ium5mBqE_h3xJ66vT0Z6HCIlTDti9emCQjDjw&sid=bcb6b0217a1206b3&type=tcp&headerType=none#🇩🇪⚡
-
-vless://1b43419a-b711-40d4-a0ee-eb5c73e60c92@ger-nnn.prostosetup.org:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=github.com&fp=firefox&pbk=y3ZMu-ium5mBqE_h3xJ66vT0Z6HCIlTDti9emCQjDjw&sid=bcb6b0217a1206b3&type=tcp&headerType=none#%F0%9F%87%A9%F0%9F%87%AA%E2%9A%A1%40
-
-
-
-hysteria2://RUSS:ep2HJ2FDV4jsCV8ArhyU@fiv4.alexanderoff.ru:443?sni=fiv4.alexanderoff.ru&insecure=0#🇷🇺⚡
-hysteria2://RUSS2:xskerxT56GtnsDU7DUyf@fi2.alexanderoff.ru:443?sni=fi2.alexanderoff.ru&insecure=0#🇷🇺 
+ss://YWVzLTI1Ni1nY206ZDI4OTBjOGYtOGQxNS00MmI3LTgwZTMtNjg3ZmFiOGIyYzdh@192.142.18.127:443?prefix=%17%03%03#🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YTJyZml4b3BoZGpmZmE4S1ZBNEFh@193.29.139.157:443?prefix=%17%03%03#🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.251:443?prefix=%17%03%03#🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpvWklvQTY5UTh5aGNRVjhrYTNQYTNB@193.29.139.202:443?prefix=%17%03%03#🇳🇱The Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnTlFVeFFxYzJ5aTRjRXFtVmNPWjVn@2.27.43.51:1080?prefix=%17%03%03#🇩🇪Germany
