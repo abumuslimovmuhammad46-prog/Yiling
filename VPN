@@ -1,6 +1,6 @@
 #profile-title:Yiling_vpn 
 #profile-update-interval: 6
-#subscription-userinfo:expire=32503680000;total=∞; used=1024
+#subscription-userinfo:expire=79861190400;total=∞; used=1024
 #url-web-page-url: 
 #announce:помог с созданием @alexandr_zaboyshik
 vless://00000000-0000-0000-0000-000000000000@0.0.0.0:1?security=none&encryption=none&type=tcp#by:@AAR2508
