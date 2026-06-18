@@ -4,8 +4,21 @@
 #url-web-page-url: 
 #announce:помог с созданием @alexandr_zaboyshik
 
-vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@109.107.190.104:52315?path=%2F&security=&encryption=none&type=ws#🇫🇮 Финляндия
-vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@38.180.217.154:52315?path=%2F&security=&encryption=none&type=ws#🇵🇱 Польша
-vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@91.184.242.118:52315?path=%2F&security=&encryption=none&type=ws#🇳🇱 Нидерланды
-vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@5.175.249.199:52315?path=%2F&security=&encryption=none&type=ws#🇩🇪 Германия
-vless://be59e17b-2afa-49f7-b15b-7c6a95f0d062@38.180.216.63:52315?path=%2F&security=&encryptio
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@uk.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=uk.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=4755f5d76eb68ffe&fp=firefox#🇬🇧 Великобритания #1
+vless://ec2aaf4f-b1aa-4410-4b14-d4b4e9b5daf4@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🇬🇧 Великобритания #2
+vless://2e071bd8-9a74-4516-9b96-067ab2bb4c3d@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🇬🇧 Великобритания #3
+vless://51af2ae4-b8db-4026-8d82-7801f3cbd3c3@ru-213.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=eh.vk.ru&pbk=AAZjVvbC7AwPKot_1ygO5VMpN7XYifCA7lG0RNR5sEk&fp=qq#🇬🇧 Великобритания #4
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@ru-84.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=ads.x5.ru&pbk=LHcascaxOxugVSALgsYx46nB-vuhT7ANOneu0xb6SzQ&sid=3b25133dd9e5c23f&fp=qq#🇬🇧 Великобритания #5
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@nl.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=nl.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=25d69b9d530a4279&fp=firefox#🇳🇱 Нидерланды
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@de.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=de.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=a0321aad8db9924f&fp=firefox#🇩🇪 Германия
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@se.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=se.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=4755f5d76eb68ffe&fp=firefox#🇸🇪 Швеция
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@ru-dock.monkeyisland.space:443?encryption=none&type=xhttp&security=reality&sni=ru.monkeyisland.space&pbk=1rZ_-S-koa2KyC4Vy2i2MxI7MbE-yt3S7RR4923W7mQ&sid=ba2713d71c7917d4&fp=firefox&path=/api/v1/data&mode=auto#🇷🇺 Россия
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@it.monkora.org:443?encryption=none&type=tcp&security=reality&sni=it.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#🇮🇹 Италия
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@pl.monkora.org:443?encryption=none&type=tcp&security=reality&sni=pl.monkora.org&pbk=aUdvs6o4PHN6jmdkIKBA2rHsN_7l8W2SaDfNgzn-BwU&fp=firefox#🇵🇱 Польша
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@es.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=es.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=83e9f5b24040c5f7&fp=firefox#🇪🇸 Испания
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@fi.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fi.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#🇫🇮 Финляндия
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@us.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=us.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=ecca56e9a9963ed7&fp=firefox#🇺🇸 США
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@kz.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=kz.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2ce837f65ba41351&fp=firefox#🇰🇿 Казахстан
+vless://7e45c956-0f20-0008-852d-fcfd6f418ba7@at.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=at.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=2b8bceab60b0f41c&fp=firefox#🇦🇹 Австрия
+vless://7e45c956-0f20-0004-852d-fcfd6f418ba7@fr.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=fr.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=49f9a88c8305734f&fp=firefox#🇫🇷 Франция
+vless://7e45c956-0f20-4e85-852d-fcfd6f418ba7@lv.monkeyisland.xyz:443?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=lv.monkeyisland.xyz&pbk=2AKBmK0PMf2zUMhRo1Ad-WNf_XoRk3AN-SGo6ZdhxA4&sid=0dd15ad462aad7fc&fp=firefox#🇱🇻 Латвия
