@@ -4,9 +4,8 @@
 #url-web-page-url: 
 #announce:помог с созданием @alexandr_zaboyshik
 
-vless://764b4422-0962-4c18-8260-95cbda86f6f8@178.76.194.18:59471?encryption=none&type=tcp&security=reality&fp=chrome&sni=www.amd.com&pbk=6y-5HEYZCfjJF_JSANIiennwdiO11NERv_OwaN4PEjk&sid=518f2b9fdbeec4&spx=/6yLanVVJCQtyDmb#%F0%9F%87%A9%F0%9F%87%AA%20Germany%20%7C%20%F0%9F%8C%90%20%5B%2ACIDR%5D
-vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&fp=chrome&mode=auto&path=%2Fcheck-update&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&security=reality&sid=a55215a9509841&sni=iv.kommersant.ru&type=xhttp#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
-vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@62.152.60.158:8443?encryption=none&type=xhttp&security=reality&path=/check-update&extra=null&fp=firefox&sni=iv.kommersant.ru&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D
+vless://403916a1-7cad-4988-bd74-a0aa377ab857@31.128.45.105:4431?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=lwwW9Jdj8OCLayNbG4Pp_nTVXcEshC_ozhpZITbcikM&fp=firefox#🇳🇱 Нидерланды | ⚡
+vless://403916a1-7cad-4988-bd74-a0aa377ab857@31.128.45.105:4432?encryption=none&type=tcp&security=reality&flow=xtls-rprx-vision&sni=api-maps.yandex.ru&pbk=VyCBx8klTuJ4JfTzDiQ-uXOEt1HrOM0meFfvsH0es0w&fp=firefox# 🇩🇪 Германия | ⚡
 vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@37.18.15.162:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=iv.kommersant.ru&fp=firefox&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841&path=%2Fcheck-update#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
 vless://f9ab7cbe-2826-480a-9d10-3ad38ca14be4@37.18.15.73:443?type=xhttp&headerType=none&security=reality&encryption=none&sni=media.mediavitrina.ru&fp=firefox&pbk=7VkrylPaWB3cx8b-AN1BXWhsQ3B6SuB2sQx9zzrwnlc&sid=a55215a9509841&path=%2Fcheck-update#%F0%9F%87%B3%F0%9F%87%B1%20The%20Netherlands%20%5B%2ACIDR%5D%20CDN
 vless://0ac0a6f0-d3f0-47f1-8de4-ce785e515a5c@91.193.58.77:443?encryption=none&fp=chrome&host=unnes.ac.id.yxls.eu.cc&path=/ca-cl&security=tls&sni=unnes.ac.id.yxls.eu.cc&type=ws#%F0%9F%8C%90%20Anycast-IP%20%7C%20%F0%9F%87%A8%F0%9F%87%A6%20%F0%9F%87%AB%F0%9F%87%AE%20%5B%2ACIDR%5D
