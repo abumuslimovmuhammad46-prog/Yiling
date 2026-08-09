@@ -4,18 +4,13 @@
 #url-web-page-url: 
 #announce:помог с созданием @alexandr_zaboyshik
 
-vless://25166e15-add6-40fc-93f8-a370713121dd@109.107.176.203:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 1
-
-vless://25166e15-add6-40fc-93f8-a370713121dd@195.63.135.185:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 2
-
-vless://25166e15-add6-40fc-93f8-a370713121dd@195.63.136.235:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 3
-
-vless://25166e15-add6-40fc-93f8-a370713121dd@88.210.9.158:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 4
-
-vless://25166e15-add6-40fc-93f8-a370713121dd@82.22.7.97:443?encryption=none&type=ws&path=%2Frw&security=none#🇫🇷 Франция
-
-vless://25166e15-add6-40fc-93f8-a370713121dd@2.26.25.102:8828?encryption=none&type=ws&path=%2Frw&security=none#🇩🇪 Германия
-
-vless://25166e15-add6-40fc-93f8-a370713121dd@138.124.181.45:443?encryption=none&type=ws&path=%2Frw&security=none#🇪🇸 Испания
-
-vless://25166e15-add6-40fc-93f8-a370713121dd@94.26.31.192:443?encryption=none&type=ws&path=%2Frw&security=none#🇺🇸 США
+vless://<UUID>@109.107.176.203:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 1
+vless://<UUID>@195.63.135.185:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 2
+vless://<UUID>@195.63.136.235:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 3
+vless://<UUID>@88.210.9.158:443?encryption=none&type=ws&path=%2Frw&security=none#🇳🇱 Нидерланды | 4
+vless://<UUID>@82.22.7.97:443?encryption=none&type=ws&path=%2Frw&security=none#🇫🇷 Франция
+vless://<UUID>@2.26.25.102:8828?encryption=none&type=ws&path=%2Frw&security=none#🇩🇪 Германия
+vless://<UUID>@138.124.181.45:443?encryption=none&type=ws&path=%2Frw&security=none#🇪🇸 Испания
+vless://<UUID>@94.26.31.192:443?encryption=none&type=ws&path=%2Frw&security=none#🇺🇸 США
+vless://<UUID>@ru-cef1e1.testkknegr.online:443?encryption=none&type=grpc&serviceName=vlgrpc&mode=gun&security=tls&sni=ru-cef1e1.testkknegr.online&fp=firefox&alpn=h2#🛡️ 1
+vless://<UUID>@37.143.15.176:1449?...#🛡️ 2
