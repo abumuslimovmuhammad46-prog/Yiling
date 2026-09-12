@@ -4,7 +4,6 @@
 #url-web-page-url: 
 #announce:помог с созданием @alexandr_zaboyshik
 
-vless://3fdb4dbd-7596-487b-a192-e9b6d0d4222d@virt.host:443?encryption=none&type=ws&path=%2Frw&security=none#%F0%9F%87%BA%F0%9F%87%B3%20%D0%90%D0%B2%D1%82%D0%BE%D0%B2%D1%8B%D0%B1%D0%BE%D1%80
 vless://3fdb4dbd-7596-487b-a192-e9b6d0d4222d@peka-nl.aleque.net:443?encryption=none&type=ws&path=%2Frw&host=peka-nl.node.aleque.net&security=tls&sni=peka-nl.node.aleque.net&fp=chrome#%F0%9F%87%B3%F0%9F%87%B1%20%D0%9D%D0%B8%D0%B4%D0%B5%D1%80%D0%BB%D0%B0%D0%BD%D0%B4%D1%8B
 vless://3fdb4dbd-7596-487b-a192-e9b6d0d4222d@peka-de.aleque.net:443?encryption=none&type=ws&path=%2Frw&host=peka-de.node.aleque.net&security=tls&sni=peka-de.node.aleque.net&fp=chrome#%F0%9F%87%A9%F0%9F%87%AA%20%D0%93%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D0%B8%D1%8F
 vless://3fdb4dbd-7596-487b-a192-e9b6d0d4222d@82.22.7.97:443?encryption=none&type=ws&path=%2Frw&host=rw2-fr.node.aleque.net&security=tls&sni=rw2-fr.node.aleque.net&fp=chrome#%F0%9F%87%AB%F0%9F%87%B7%20%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D1%8F
